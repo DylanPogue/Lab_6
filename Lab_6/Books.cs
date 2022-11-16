@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab_6
 {
-    public class Volumes
+    public class Books
     {
         public List<ItemBase> Items { get; set; }
 
-        public Volumes(List<ItemBase> items)
+        public Books(List<ItemBase> items)
         {
             Items = items;
         }

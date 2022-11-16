@@ -8,21 +8,19 @@ namespace Lab_6
 {
     public class Item
     {
+        public List<VolumeInfoBase> Volumes { get; set; }
         public string Id { get; set; }
-        public string Title { get; set; }
-        public List<string> Authors { get; set; }
-        public string Description { get; set; }
         public string SelfLink { get; set; }
 
-        public Item(string id, string title, List<string> authors, string description, string selfLink)
+        public Item(List<VolumeInfoBase> volumes, string id, string selfLink)
         {
+            Volumes = volumes;
             Id = id;
-            Title = title;
-            Authors = authors;
-            Description = description;
             SelfLink = selfLink;
         }
 
         
+
+
     }
 }
