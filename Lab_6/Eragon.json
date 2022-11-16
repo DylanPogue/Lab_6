@@ -1,0 +1,107 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 198,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Xt9e9yLsyuAC",
+      "etag": "m+2h8tOIi8c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xt9e9yLsyuAC",
+      "volumeInfo": {
+        "title": "Eragon",
+        "subtitle": "Book I",
+        "authors": [
+          "Christopher Paolini"
+        ],
+        "publisher": "Knopf Books for Young Readers",
+        "publishedDate": "2003-08-26",
+        "description": "A new adventure hatches in the first book of the Inheritance Cycle, perfect for fans of Lord of the Rings! This New York Times bestselling series has sold over 35 million copies and is an international fantasy sensation. When fifteen-year-old Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself. Overnight his simple life is shattered, and, gifted with only an ancient sword, a loyal dragon, and sage advice from an old storyteller, Eragon is soon swept into a dangerous tapestry of magic, glory, and power. Now his choices could save—or destroy—the Empire. Features interlocking art that reveals an image across the spines of all four books! And don’t miss the most recent book set in Eragon's world, The Fork, the Witch, and the Worm: Tales from Alagaësia! \"Christopher Paolini is a true rarity.\" --The Washington Post",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780375890369"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "037589036X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 449,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.15.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xt9e9yLsyuAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xt9e9yLsyuAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Xt9e9yLsyuAC&printsec=frontcover&dq=eragon+inauthor:paolini&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC&rdid=book-Xt9e9yLsyuAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Eragon-sample-epub.acsm?id=Xt9e9yLsyuAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Eragon-sample-pdf.acsm?id=Xt9e9yLsyuAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xt9e9yLsyuAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now his choices could save—or destroy—the Empire. And don’t miss the most recent book set in Eragon&#39;s world, The Fork, the Witch, and the Worm: Tales from Alagaësia!"
+      }
+    }
+  ]
+}
