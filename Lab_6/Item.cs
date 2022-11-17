@@ -19,7 +19,17 @@ namespace Lab_6
             SelfLink = selfLink;
         }
 
-        
+        public override string ToString()
+        {
+            string itemString = "";
+            foreach(var i in Volumes)
+            {
+                itemString += i;
+            }
+            return itemString;
+        }
+
+
 
 
     }

@@ -14,5 +14,10 @@ namespace Lab_6
         {
             Volume = volume;
         }
+
+        public override string ToString()
+        {
+            return Volume.Title + Volume.Authors + Volume.Description;
+        }
     }
 }

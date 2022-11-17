@@ -18,11 +18,7 @@ namespace Lab_6
 
         public override string ToString()
         {
-            string itemString = "";
-            itemString += $"Id: {Item.Id}\n";          
-            itemString += $"SelfLink: {Item.SelfLink}\n";
-            itemString += $"Volume Info: {Volumes}\n";
-            return itemString;
+            return Item.Id + Item.SelfLink + Item.Volumes;
         }
     }
 }

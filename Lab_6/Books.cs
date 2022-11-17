@@ -17,9 +17,12 @@ namespace Lab_6
 
         public override string ToString()
         {
-            string volumeString = "";
-            volumeString += $"Items: \n {Items}";
-            return volumeString;
+            string bookString = "";
+            foreach(var i in Items)
+            {
+                bookString += i;
+            }
+            return bookString;
         }
     }
 }
