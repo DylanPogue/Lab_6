@@ -1,11 +1,11 @@
 {
   "kind": "books#volumes",
-  "totalItems": 212,
+  "totalItems": 1,
   "items": [
     {
       "kind": "books#volume",
       "id": "tbVIPgAACAAJ",
-      "etag": "Act0gA3XgPY",
+      "etag": "nDNOBb+zEmk",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/tbVIPgAACAAJ",
       "volumeInfo": {
         "title": "Fablehaven",
@@ -47,8 +47,8 @@
           "thumbnail": "http://books.google.com/books/content?id=tbVIPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=tbVIPgAACAAJ&dq=fablehaven+inauthor:mull&hl=&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=tbVIPgAACAAJ&dq=fablehaven+inauthor:mull&hl=&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=tbVIPgAACAAJ&dq=fablehaven+inauthor:mull+isbn:9781590385814&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tbVIPgAACAAJ&dq=fablehaven+inauthor:mull+isbn:9781590385814&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Fablehaven.html?hl=&id=tbVIPgAACAAJ"
       },
       "saleInfo": {

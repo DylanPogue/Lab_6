@@ -1,57 +1,57 @@
 {
   "kind": "books#volumes",
-  "totalItems": 147,
+  "totalItems": 1,
   "items": [
     {
       "kind": "books#volume",
-      "id": "Ml2TEAAAQBAJ",
-      "etag": "99W1NBvJSWc",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ml2TEAAAQBAJ",
+      "id": "eKCcOYdtcqMC",
+      "etag": "3jbtXa2uBXM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eKCcOYdtcqMC",
       "volumeInfo": {
-        "title": "The Inheritance Cycle 4-Book Trade Paperback Boxed Set",
-        "subtitle": "Eragon, Eldest, Brisingr, Inheritance",
+        "title": "Inheritance",
+        "subtitle": "Inheritance Book 4",
         "authors": [
           "Christopher Paolini"
         ],
-        "publisher": "Alfred a Knopf Incorporated",
-        "publishedDate": "2012-10-23",
-        "description": "A boxed set of all four hardcover books in the series that began with Eragon follows Eragon as he grows from a poor farm boy into an amazing swordsman who fights alongside his dragon, Saphira, to help save the Empire from evil and darkness. Reprint.",
+        "publisher": "Random House",
+        "publishedDate": "2013",
+        "description": "Not so very long ago, Eragon - Shadeslayer, Dragon Rider - was nothing more than a poor farm boy, and his dragon, Saphira, only a blue stone in the forest. Now, the fate of an entire civilization rests on their shoulders.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780449813225"
+            "identifier": "9780552158626"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0449813223"
+            "identifier": "0552158623"
           }
         ],
         "readingModes": {
-          "text": true,
+          "text": false,
           "image": false
         },
-        "pageCount": 0,
+        "pageCount": 882,
         "printType": "BOOK",
         "categories": [
-          "Juvenile Fiction"
+          "Children's stories"
         ],
-        "averageRating": 4,
-        "ratingsCount": 3,
+        "averageRating": 5,
+        "ratingsCount": 2,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
+        "contentVersion": "0.5.0.0.preview.0",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Ml2TEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Ml2TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=eKCcOYdtcqMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eKCcOYdtcqMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=Ml2TEAAAQBAJ&dq=inheritance+inauthor:paolini&hl=&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=Ml2TEAAAQBAJ&dq=inheritance+inauthor:paolini&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Inheritance_Cycle_4_Book_Trade_Paper.html?hl=&id=Ml2TEAAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=eKCcOYdtcqMC&dq=inheritance+inauthor:paolini+isbn:9780552158626&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eKCcOYdtcqMC&dq=inheritance+inauthor:paolini+isbn:9780552158626&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Inheritance.html?hl=&id=eKCcOYdtcqMC"
       },
       "saleInfo": {
         "country": "US",
@@ -68,14 +68,14 @@
           "isAvailable": false
         },
         "pdf": {
-          "isAvailable": false
+          "isAvailable": true
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=Ml2TEAAAQBAJ&hl=&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=eKCcOYdtcqMC&hl=&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "A boxed set of all four hardcover books in the series that began with Eragon follows Eragon as he grows from a poor farm boy into an amazing swordsman who fights alongside his dragon, Saphira, to help save the Empire from evil and darkness."
+        "textSnippet": "Not so very long ago, Eragon - Shadeslayer, Dragon Rider - was nothing more than a poor farm boy, and his dragon, Saphira, only a blue stone in the forest. Now, the fate of an entire civilization rests on their shoulders."
       }
     }
   ]

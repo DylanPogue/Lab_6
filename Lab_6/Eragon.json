@@ -1,106 +1,80 @@
 {
   "kind": "books#volumes",
-  "totalItems": 198,
+  "totalItems": 1,
   "items": [
     {
       "kind": "books#volume",
-      "id": "Xt9e9yLsyuAC",
-      "etag": "m+2h8tOIi8c",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xt9e9yLsyuAC",
+      "id": "EI9gQPw29aYC",
+      "etag": "Ol2lwllBEeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EI9gQPw29aYC",
       "volumeInfo": {
         "title": "Eragon",
-        "subtitle": "Book I",
         "authors": [
           "Christopher Paolini"
         ],
-        "publisher": "Knopf Books for Young Readers",
-        "publishedDate": "2003-08-26",
-        "description": "A new adventure hatches in the first book of the Inheritance Cycle, perfect for fans of Lord of the Rings! This New York Times bestselling series has sold over 35 million copies and is an international fantasy sensation. When fifteen-year-old Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself. Overnight his simple life is shattered, and, gifted with only an ancient sword, a loyal dragon, and sage advice from an old storyteller, Eragon is soon swept into a dangerous tapestry of magic, glory, and power. Now his choices could save—or destroy—the Empire. Features interlocking art that reveals an image across the spines of all four books! And don’t miss the most recent book set in Eragon's world, The Fork, the Witch, and the Worm: Tales from Alagaësia! \"Christopher Paolini is a true rarity.\" --The Washington Post",
+        "publisher": "Random House",
+        "publishedDate": "2005",
+        "description": "In Aagaesia, a fifteen-year-old boy of unknown lineage called Eragon finds a mysterious stone that weaves his life into an intricate tapestry of destiny, magic, and power, peopled with dragons, elves, and monsters.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780375890369"
+            "identifier": "9780552552097"
           },
           {
             "type": "ISBN_10",
-            "identifier": "037589036X"
+            "identifier": "0552552097"
           }
         ],
         "readingModes": {
-          "text": true,
-          "image": true
+          "text": false,
+          "image": false
         },
-        "pageCount": 528,
+        "pageCount": 67,
         "printType": "BOOK",
         "categories": [
-          "Young Adult Fiction"
+          "Children's stories"
         ],
         "averageRating": 4.5,
-        "ratingsCount": 449,
+        "ratingsCount": 2,
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.15.13.0.preview.3",
+        "allowAnonLogging": false,
+        "contentVersion": "0.962.7.0.preview.0",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Xt9e9yLsyuAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Xt9e9yLsyuAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=EI9gQPw29aYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EI9gQPw29aYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=Xt9e9yLsyuAC&printsec=frontcover&dq=eragon+inauthor:paolini&hl=&cd=1&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC"
+        "previewLink": "http://books.google.com/books?id=EI9gQPw29aYC&dq=eragon+inauthor:paolini+isbn:9780552552097&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EI9gQPw29aYC&dq=eragon+inauthor:paolini+isbn:9780552552097&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eragon.html?hl=&id=EI9gQPw29aYC"
       },
       "saleInfo": {
         "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 10.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 10.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC&rdid=book-Xt9e9yLsyuAC&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 10990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 10990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
       },
       "accessInfo": {
         "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
+        "viewability": "NO_PAGES",
+        "embeddable": false,
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Eragon-sample-epub.acsm?id=Xt9e9yLsyuAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": false
         },
         "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Eragon-sample-pdf.acsm?id=Xt9e9yLsyuAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": true
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=Xt9e9yLsyuAC&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
+        "webReaderLink": "http://play.google.com/books/reader?id=EI9gQPw29aYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Now his choices could save—or destroy—the Empire. And don’t miss the most recent book set in Eragon&#39;s world, The Fork, the Witch, and the Worm: Tales from Alagaësia!"
+        "textSnippet": "One boy . . . One dragon . . . A world of adventure. When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter."
       }
     }
   ]
